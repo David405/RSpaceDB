@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mE:\RSpace\rspacedb\src\main\scala\Main.scala:1:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mscala> import coop.rchain.rspace._[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mE:\RSpace\rspacedb\src\main\scala\Main.scala:3:2: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0m scala> import coop.rchain.rspace.util._[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

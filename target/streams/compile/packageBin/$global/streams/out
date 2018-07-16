@@ -1,0 +1,21 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging E:\RSpace\rspacedb\target\scala-2.12\hello-world_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\RSpace\rspacedb\target\scala-2.12\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Address.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\RSpace\rspacedb\target\scala-2.12\classes\Main$Address.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Address$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\RSpace\rspacedb\target\scala-2.12\classes\Main$Address$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Entry$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\RSpace\rspacedb\target\scala-2.12\classes\Main$Entry$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Printer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\RSpace\rspacedb\target\scala-2.12\classes\Main$Printer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Name$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\RSpace\rspacedb\target\scala-2.12\classes\Main$Name$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Name.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\RSpace\rspacedb\target\scala-2.12\classes\Main$Name.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$Entry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\RSpace\rspacedb\target\scala-2.12\classes\Main$Entry.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  E:\RSpace\rspacedb\target\scala-2.12\classes\Main$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

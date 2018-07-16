@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(E:\RSpace\rspacedb\src\main\scala\Main.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(Main.Printer, Main.Address, Main.Name, Main, Main.Entry)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to E:\RSpace\rspacedb\target\scala-2.12\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.7:compile for Scala 2.12.6[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.1.7:compile for Scala 2.12.6[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 1df7b707 for Scala compiler version 2.12.6[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\copy\lib\resources.jar;C:\copy\lib\rt.jar;C:\copy\lib\sunrsasign.jar;C:\copy\lib\jsse.jar;C:\copy\lib\jce.jar;C:\copy\lib\charsets.jar;C:\copy\lib\jfr.jar;C:\copy\classes;C:\Users\David Asamonye\.sbt\boot\scala-2.12.6\lib\scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	E:\RSpace\rspacedb\target\scala-2.12\classes;C:\Users\David Asamonye\.ivy2\cache\org.typelevel\cats-core_2.12\jars\cats-core_2.12-1.1.0.jar;C:\Users\David Asamonye\.ivy2\cache\org.typelevel\cats-macros_2.12\jars\cats-macros_2.12-1.1.0.jar;C:\Users\David Asamonye\.ivy2\cache\org.typelevel\machinist_2.12\jars\machinist_2.12-0.6.2.jar;C:\Users\David Asamonye\.sbt\boot\scala-2.12.6\lib\scala-reflect.jar;C:\Users\David Asamonye\.ivy2\cache\org.typelevel\cats-kernel_2.12\jars\cats-kernel_2.12-1.1.0.jar;C:\Users\David Asamonye\.ivy2\cache\coop.rchain\rspace_2.12\jars\rspace_2.12-0.1.1.jar;C:\Users\David Asamonye\.ivy2\cache\com.trueaccord.scalapb\scalapb-runtime_2.12\jars\scalapb-runtime_2.12-0.6.6.jar;C:\Users\David Asamonye\.ivy2\cache\com.trueaccord.lenses\lenses_2.12\jars\lenses_2.12-0.4.12.jar;C:\Users\David Asamonye\.ivy2\cache\com.lihaoyi\fastparse_2.12\jars\fastparse_2.12-0.4.4.jar;C:\Users\David Asamonye\.ivy2\cache\com.lihaoyi\fastparse-utils_2.12\jars\fastparse-utils_2.12-0.4.4.jar;C:\Users\David Asamonye\.ivy2\cache\com.lihaoyi\sourcecode_2.12\bundles\sourcecode_2.12-0.1.4.jar;C:\Users\David Asamonye\.ivy2\cache\com.google.protobuf\protobuf-java\bundles\protobuf-java-3.4.0.jar;C:\Users\David Asamonye\.ivy2\cache\com.typesafe.scala-logging\scala-logging_2.12\bundles\scala-logging_2.12-3.7.2.jar;C:\Users\David Asamonye\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.25.jar;C:\Users\David Asamonye\.ivy2\cache\ch.qos.logback\logback-classic\jars\logback-classic-1.2.3.jar;C:\Users\David Asamonye\.ivy2\cache\ch.qos.logback\logback-core\jars\logback-core-1.2.3.jar;C:\Users\David Asamonye\.ivy2\cache\org.lmdbjava\lmdbjava\jars\lmdbjava-0.6.0.jar;C:\Users\David Asamonye\.ivy2\cache\com.github.jnr\jnr-ffi\jars\jnr-ffi-2.1.6.jar;C:\Users\David Asamonye\.ivy2\cache\com.github.jnr\jffi\jars\jffi-1.2.16.jar;C:\Users\David Asamonye\.ivy2\cache\com.github.jnr\jffi\jars\jffi-1.2.16-native.jar;C:\Users\David Asamonye\.ivy2\cache\org.ow2.asm\asm\jars\asm-5.0.3.jar;C:\Users\David Asamonye\.ivy2\cache\org.ow2.asm\asm-commons\jars\asm-commons-5.0.3.jar;C:\Users\David Asamonye\.ivy2\cache\org.ow2.asm\asm-tree\jars\asm-tree-5.0.3.jar;C:\Users\David Asamonye\.ivy2\cache\org.ow2.asm\asm-analysis\jars\asm-analysis-5.0.3.jar;C:\Users\David Asamonye\.ivy2\cache\org.ow2.asm\asm-util\jars\asm-util-5.0.3.jar;C:\Users\David Asamonye\.ivy2\cache\com.github.jnr\jnr-x86asm\jars\jnr-x86asm-1.0.2.jar;C:\Users\David Asamonye\.ivy2\cache\com.github.jnr\jnr-constants\jars\jnr-constants-0.9.9.jar;C:\Users\David Asamonye\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.12\bundles\scala-parser-combinators_2.12-1.1.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.602293376 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
